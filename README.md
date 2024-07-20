@@ -1,5 +1,5 @@
 Hi👋, I’m Suruthi P
-- 🚀 Here's my portfolio: <a href="https://suruthi-portofolio.vercel.app/">Portfolio</a>
+- 🚀 Here's my portfolio: <a href="https://suruthi-portofolio.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Portfolio" style="width:20px;height:20px;"></a>
 - 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on web applications and API integration
